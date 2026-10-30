@@ -79,12 +79,6 @@ The exploratory data analysis was done in R and the written report was prepared 
 
 Main libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `optuna`, `pyod`, `umap-learn`, `tensorflow`, `torch`.
 
-## Team
-
-Group 19, Politecnico di Milano:
-- Francesco Colombo
-- [Name Surname]
-- [Name Surname]
 
 **My contribution:** [describe your part, e.g. "XGBoost and ensemble models, hyperparameter tuning with Optuna"]
 
