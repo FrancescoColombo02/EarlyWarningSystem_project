@@ -1,7 +1,7 @@
 # Early Warning System for Financial Market Stress
 
 Anomaly detection on weekly financial market data to flag **risk-off** periods (weeks of high systemic risk).
-Final project of **Group 19** for the **Fintech** course at **Politecnico di Milano** (A.Y. 2024/25).
+Final project for the **Fintech** course at **Politecnico di Milano** (A.Y. 2024/25).
 
 ## Overview
 
